@@ -1,0 +1,1 @@
+14.Nếu không sử dung try-catch,khi xảy ra ngoại lệ chương trình bị dừng đột ngột,tài nguyên ko dc giải phóng
